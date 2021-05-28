@@ -1,0 +1,41 @@
+.tableBox {
+    padding: 7% 35%;
+    overflow-x: auto;
+    width: 100%;
+}
+
+.tableBox table {
+    max-width: 900px;
+    border-collapse: collapse;
+    font-family: arial;
+}
+
+
+ .tableBox table td,th {
+    padding: 5px 0;
+    min-width: 180px;
+    border: solid 1px black;
+    font-size: 15px;
+
+}
+
+.tableBox table th {
+    text-align: center;
+    background-color: rgb(230,230,230);
+}
+
+.tableBox table td {
+    padding: 5px 6px;
+}
+button{
+    margin-top: 5px;
+    padding: 10px 25px;
+    font-size: 1rem ;
+    font-weight: 900;
+   
+}
+
+
+h3{
+    color: red;
+}
